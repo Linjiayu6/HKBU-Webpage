@@ -11,5 +11,5 @@
 * IE support HTML5 Tags by using Javascript to create elements.<br>
 
 ####ScreenShot:
-![](https://github.com/Linjiayu6/HKBU/HKBU/img/imgCache/screen-img1.png)  <br>
-![](https://github.com/Linjiayu6/HKBU/HKBU/img/imgCache/screen-img2.png)  
+![](https://github.com/Linjiayu6/HKBU/raw/master/HKBU/img/imgCache/screen-img1.png)  <br>
+![](https://github.com/Linjiayu6/HKBU/raw/master/HKBU/img/imgCache/screen-img2.png)
